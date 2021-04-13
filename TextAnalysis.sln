@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalysis", "TextAnalysis.csproj", "{E7F5D985-677D-4246-BA75-4BAE24DF38B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8D8D2E3D-F9BC-4EAC-8779-4579318AB3C7}"
+	ProjectSection(SolutionItems) = preProject
+		SentencesParserTask_workCopy.txt = SentencesParserTask_workCopy.txt
+		SentencesParserTaskCopy.txt = SentencesParserTaskCopy.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F5D985-677D-4246-BA75-4BAE24DF38B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F5D985-677D-4246-BA75-4BAE24DF38B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F5D985-677D-4246-BA75-4BAE24DF38B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F5D985-677D-4246-BA75-4BAE24DF38B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3AC16F5-3071-4950-93DB-9C943C8680A0}
+	EndGlobalSection
+EndGlobal
